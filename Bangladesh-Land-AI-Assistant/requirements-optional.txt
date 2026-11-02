@@ -1,0 +1,4 @@
+# Optional: only for authorized, explicitly enabled Selenium ingestion
+selenium>=4.20,<5.0
+# Optional: for the legacy PDF report generator
+reportlab>=4.0,<5.0
